@@ -14,5 +14,15 @@ The initial run of the application. A small introduction with instructions are g
 
 The generated serial after the button is clicked. This button can be clicked as many times as you wish to generate an infinite amount of serials.
 
+## Testing the serial
+![image](https://user-images.githubusercontent.com/52826612/168441143-2fe9e9bc-4a42-466a-b241-54006de335cf.png)
+
+Testing the generated serial into a copy of Windows 95 running through an emulator.
+
+## Success
+![image](https://user-images.githubusercontent.com/52826612/168441177-f8725015-0334-42f3-b80c-0648c5c315b0.png)
+
+Windows 95 accepts the key and allows us to proceed with the installation.
+
 # Disclaimer
 This is just a for research purposes.. please don't pirate windows 95 in 2022
